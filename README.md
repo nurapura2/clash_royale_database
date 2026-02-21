@@ -59,7 +59,7 @@ sqlite3 clash_royale.db < sql/database.sql
 You can run the following examples to test the dataset:
 
 Top 10 Players by Wins:
-SQL
+
 ```
 SELECT p.name, COUNT(b.id) AS total_wins
 FROM Players p
@@ -71,7 +71,6 @@ LIMIT 10;
 
 Clan Capacity Report:
 ```
-SQL
 SELECT c.name, COUNT(p.id) AS member_count
 FROM Clans c
 LEFT JOIN Players p ON c.id = p.clan_id
