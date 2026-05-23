@@ -50,6 +50,7 @@ The database is built around 5 core entities with clearly defined relationships:
 
 ## ERD overview
 <img width="1730" height="1557" alt="ERD" src="https://github.com/user-attachments/assets/a7bdee7d-9ba7-4d8d-92f6-2521570423d1" />
+<img width="1451" height="1311" alt="изображение" src="https://github.com/user-attachments/assets/dfe2fa0e-a5b8-4767-b88a-8444befc4f12" />
 
 ---
 
